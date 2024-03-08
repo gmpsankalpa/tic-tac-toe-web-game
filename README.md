@@ -12,7 +12,7 @@ A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaS
 
 ## Demo
 
-Check out the [live demo](link-to-your-demo) to play the game.
+Check out the [live demo](https://gmpsankalpa.github.io/tic-tac-toe-web-game/) to play the game.
 
 ## How to Play
 
